@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ttcooper_phd" target="blank"><img src="https://img.shields.io/twitter/follow/ttcooper_phd?logo=twitter&style=for-the-badge" alt="ttcooper_phd" /></a> </p>
 
 - 🔭 I’m currently working on **Peptide_Chef : A Toolbox for Proteomic Analyses and Data Visulization**
-- - 🔭 I’m currently working on **Sci-Fly : A Toolbox for NFT-based Applications on the Cardano blockchain**
+- - 🔭 I’m currently working on **Pytato : A Dual-Enzyme Data-independent Search Engine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
